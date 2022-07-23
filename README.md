@@ -1,2 +1,2 @@
-# iitbhu
+# IITBHU
 Internship Projects
